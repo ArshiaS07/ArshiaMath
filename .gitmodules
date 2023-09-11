@@ -1,0 +1,9 @@
+[submodule "Matrix"]
+	path = Matrix
+	url = https://github.com/ArshiaS07/Matrix.git
+[submodule "EquationMatrix"]
+	path = EquationMatrix
+	url = https://github.com/ArshiaS07/EquationMatrix.git
+[submodule "MatrixSolver"]
+	path = MatrixSolver
+	url = https://github.com/ArshiaS07/MatrixSolver.git
